@@ -7,6 +7,7 @@ const page = () => {
       _notincludeRoutes 
 
         if i needed to merge in url i have to put %5f before the name like %5fincludeRoutes
+        يعني لو بدي يكون اسم الملف بادي باندرسكور ويكون موجود بالراوت بحط ال %5f
     
     </div>
   )

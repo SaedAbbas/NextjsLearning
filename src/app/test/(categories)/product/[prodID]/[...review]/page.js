@@ -16,7 +16,7 @@ const review = ({params}) => {
     }
   return (
     <div>
-       <h1> product number [{params.prodID}] with review number [{params.review[0]}] </h1>
+       <h1> product number [{params.prodID}] with review number [{params.review[1]}] </h1>
       
     </div>
   )
